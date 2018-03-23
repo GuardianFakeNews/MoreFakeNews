@@ -1,6 +1,6 @@
 # theguardian.py from a public domain Pyhton script by well known GitHub user Ken Shirriff http://www.righto.com/p/about-ken-shirriff.html 
 # Ken is perhaps best known for his popular Arduino IRremote library
-# Minor script mods by Paul Costas March 2018
+# Minor script mods by Paul Costas March 2018 https://github.com/GuardianFakeNews/MoreFakeNews
 #https://blockchain.info/tx/ceb1a7fb57ef8b75ac59b56dd859d5cb3ab5c31168aa55eb3819cd5ddbd3dxxx
 
 data = [
